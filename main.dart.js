@@ -64970,11 +64970,11 @@ A.rk.prototype={
 ap(){return new A.Hk(B.l)}}
 A.Hk.prototype={
 R(a){var s,r,q,p=null,o=t.af,n=A.a9A(B.k,p,A.DI(A.b([A.acI("Vinay Photography - 9959000178",A.lT(p,p,B.i,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p))],o),B.br,B.d5,B.c0)),m=t.w,l=A.c7(a,p,m).w
-l=A.q5(A.RX("assets/vinay.jpg",B.fn,A.c7(a,p,m).w.a.b/1.15,l.a.a/1.05),p,p)
+l=A.q5(A.RX("assets/vinay.jpg",B.wt,A.c7(a,p,m).w.a.b/1.15,l.a.a/1.05),p,p)
 s=A.b([A.RX("assets/img1.jpg",B.fn,p,p),A.RX("assets/img2.jpg",B.fn,p,p)],o)
 r=A.az([null,0],t.LO,t.S)
 q=A.c7(a,p,m).w
-return A.acf(n,B.k,new A.Ed(A.a9S(A.b([l,B.bL,B.M3,B.bL,new A.i2(B.zw,new A.AR(new A.Y2(2,10,10,1),new A.XZ(!0,!0,!0,s,r),p,B.aH,!1,p,p,B.E6,!0,p,2,B.bt,B.FP,p,B.aA,p),p),B.bL,B.M6,B.bL,A.q5(A.RX("assets/vinay_visiting_card.jpg",B.wt,A.c7(a,p,m).w.a.b/2,q.a.a/2),p,p),B.bL,new A.Ac(new A.a1A(a),p,p,p,p,p,p,!1,p,B.M_,p),B.bL,B.M2,B.bL],o),B.br,B.ep,B.c0),p))}}
+return A.acf(n,B.k,new A.Ed(A.a9S(A.b([l,B.bL,B.M3,B.bL,new A.i2(B.zw,new A.AR(new A.Y2(2,10,10,1),new A.XZ(!0,!0,!0,s,r),p,B.aH,!1,p,p,B.E6,!0,p,2,B.bt,B.FP,p,B.aA,p),p),B.bL,B.M6,B.bL,A.q5(A.RX("assets/vinay_visiting_card.jpg",B.fn,A.c7(a,p,m).w.a.b/2,q.a.a/2),p,p),B.bL,new A.Ac(new A.a1A(a),p,p,p,p,p,p,!1,p,B.M_,p),B.bL,B.M2,B.bL],o),B.br,B.ep,B.c0),p))}}
 A.a1A.prototype={
 $0(){var s=A.abp(new A.a1z(),null,t.z)
 A.U4(this.a).tG(s)},
@@ -66749,8 +66749,8 @@ B.cs=new A.aH(0,1/0,0,1/0)
 B.wr=new A.aH(96,96,96,96)
 B.ws=new A.aH(0,1/0,56,56)
 B.jc=new A.aH(1/0,1/0,1/0,1/0)
-B.wt=new A.yP(1,"contain")
-B.fn=new A.yP(2,"cover")
+B.fn=new A.yP(1,"contain")
+B.wt=new A.yP(2,"cover")
 B.jd=new A.yQ(0,"tight")
 B.je=new A.yQ(5,"strut")
 B.bn=new A.yT(0,"rectangle")
